@@ -13,3 +13,5 @@
 - [3] https://www.educba.com/matplotlib-in-python/ 
 - [4] https://www.machinelearningplus.com/plots/top-50-matplotlib-visualizations-the-master-plots-python/#1.-Scatter-plot
 - [5] https://www.intellspot.com/scatter-plot/
+- [6] https://stackoverflow.com/questions/48795977/python-plot-a-histogram-with-colored-categories
+- [7] https://github.com/BTunney92/pands-project2021
