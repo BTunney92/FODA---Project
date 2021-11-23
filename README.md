@@ -2,6 +2,9 @@
 
 ## References
 - [1] - https://github.com/ianmcloughlin/cao-points/blob/main/cao-points-analysis.ipynb
+- [2] - https://pandas.pydata.org/docs/reference/api/pandas.read_excel.html
+- [3] - https://stackoverflow.com/questions/32400867/pandas-read-csv-from-url
+- [4] - https://www.shanelynn.ie/using-pandas-dataframe-creating-editing-viewing-data-in-python/#deleting-rows-and-columns-drop
 
 
 
