@@ -9,6 +9,8 @@
 - [6] - https://hackersandslackers.com/pandas-dataframe-drop
 - [7] - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.loc.html
 - [8] - https://stackoverflow.com/questions/36499967/how-do-i-remove-omit-the-count-column-from-the-dataframe-in-pandas
+- [9] - https://stackoverflow.com/questions/16265831/merging-two-csv-files-using-python
+- [10] - 
 
 
 ## matlib.pylot
