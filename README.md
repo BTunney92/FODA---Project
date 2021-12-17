@@ -10,8 +10,8 @@
 - [7] - https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.loc.html
 - [8] - https://stackoverflow.com/questions/36499967/how-do-i-remove-omit-the-count-column-from-the-dataframe-in-pandas
 - [9] - https://stackoverflow.com/questions/16265831/merging-two-csv-files-using-python
-- [10] - 
-
+- [10] - https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html
+- [11] - https://stackoverflow.com/questions/36814100/pandas-to-numeric-for-multiple-columns
 
 ## matlib.pylot
 
