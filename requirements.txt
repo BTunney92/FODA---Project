@@ -1,0 +1,17 @@
+# Fundamentals of Data Analysis, Winter 21/22
+- Author: Brendan Tunney
+- ID - G00270683
+
+## How to run notebooks
+
+1. Install Anaconda package on device aswell as downloading CMDER 
+   * https://www.anaconda.com/
+   * https://cmder.net/
+   
+2. Using the clone functionality in CMDER, clone repository.
+   * git@github.com:BTunney92/FODA---Project.git
+
+3. On CMDER, naviagate to folder and launch jupyter.
+
+4. Open pyplot.ipynb and cao.ipynb and click ''restart and run all kernels''.
+   Programmes will now run.

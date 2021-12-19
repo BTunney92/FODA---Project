@@ -5,9 +5,12 @@
 This repository exists for the Fundamentals of Data Analysis assessment. 
 It contains two jupyter notebooks - pyplot.ipynb and cao.ipynb.
 
-* pyplot.ipynb - This repository contains a clear and concise overview of the matplotlib.pyplot Python package, aswell as an in-depth explanation of three interesting plots from the matplotlib.pyplot python package
+* pyplot.ipynb - This notebook contains a clear and concise overview of the matplotlib.pyplot Python package, aswell as an in-depth explanation of three interesting plots from the matplotlib.pyplot python package
 
-## References
+* cao.ipynb - This notebook contains a clear and concise overview of how to load CAO points information from the CAO website into a pandas data frame. It also has a detailed comparison of CAO points in 2019, 2020, and 2021 along with some plots to visualise the data.
+
+## References - CAO.ipynb
+
 - [1] - https://github.com/ianmcloughlin/cao-points/blob/main/cao-points-analysis.ipynb
 - [2] - https://pandas.pydata.org/docs/reference/api/pandas.read_excel.html
 - [3] - https://stackoverflow.com/questions/32400867/pandas-read-csv-from-url
@@ -20,7 +23,7 @@ It contains two jupyter notebooks - pyplot.ipynb and cao.ipynb.
 - [10] - https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html
 - [11] - https://stackoverflow.com/questions/36814100/pandas-to-numeric-for-multiple-columns
 
-## matlib.pylot
+## References matlib.pylot
 
 - [1] https://matplotlib.org/
 - [2] https://matplotlib.org/2.0.2/users/pyplot_tutorial.html
