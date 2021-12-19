@@ -1,8 +1,11 @@
-# FODA---Project
+# Fundamentals of Data Analysis, Winter 21/22
+- Author: Brendan Tunney
+- ID - G00270683
 
-Author:Brendan Tunney
-Student ID - G00270683
+This repository exists for the Fundamentals of Data Analysis assessment. 
+It contains two jupyter notebooks - pyplot.ipynb and cao.ipynb.
 
+* pyplot.ipynb - This repository contains a clear and concise overview of the matplotlib.pyplot Python package, aswell as an in-depth explanation of three interesting plots from the matplotlib.pyplot python package
 
 ## References
 - [1] - https://github.com/ianmcloughlin/cao-points/blob/main/cao-points-analysis.ipynb
