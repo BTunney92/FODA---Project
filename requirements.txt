@@ -13,5 +13,5 @@
 
 3. On CMDER, naviagate to folder and launch jupyter.
 
-4. Open pyplot.ipynb and cao.ipynb and click ''restart and run all kernels''.
+4. Open pyplot.ipynb and cao.ipynb and click ''restart and run all cells''.
    Programmes will now run.

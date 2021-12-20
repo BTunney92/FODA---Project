@@ -23,7 +23,7 @@ It contains two jupyter notebooks - pyplot.ipynb and cao.ipynb.
 - [10] - https://pandas.pydata.org/docs/reference/api/pandas.to_numeric.html
 - [11] - https://stackoverflow.com/questions/36814100/pandas-to-numeric-for-multiple-columns
 
-## References matlib.pylot
+## References - pyplot.ipynb
 
 - [1] https://matplotlib.org/
 - [2] https://matplotlib.org/2.0.2/users/pyplot_tutorial.html
