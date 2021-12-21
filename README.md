@@ -9,6 +9,20 @@ It contains two jupyter notebooks - pyplot.ipynb and cao.ipynb.
 
 * cao.ipynb - This notebook contains a clear and concise overview of how to load CAO points information from the CAO website into a pandas data frame. It also has a detailed comparison of CAO points in 2019, 2020, and 2021 along with some plots to visualise the data.
 
+## How to run notebooks
+
+1. Install Anaconda package on device aswell as downloading CMDER 
+   * https://www.anaconda.com/
+   * https://cmder.net/
+   
+2. Using the clone functionality in CMDER, clone repository.
+   * git@github.com:BTunney92/FODA---Project.git
+
+3. On CMDER, naviagate to folder and launch jupyter.
+
+4. Open pyplot.ipynb and cao.ipynb and click ''restart and run all cells''.
+   Programmes will now run.
+   
 ## References - CAO.ipynb
 
 - [1] - https://github.com/ianmcloughlin/cao-points/blob/main/cao-points-analysis.ipynb
