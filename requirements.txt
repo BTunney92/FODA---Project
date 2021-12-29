@@ -14,4 +14,4 @@
 3. On CMDER, naviagate to folder and launch jupyter.
 
 4. Open pyplot.ipynb and cao.ipynb and click ''restart and run all cells''.
-   Programmes will now run.
+   Programmes will now run. All files required will be available when repository is cloned.
